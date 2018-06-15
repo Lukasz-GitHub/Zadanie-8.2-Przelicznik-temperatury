@@ -1,0 +1,1 @@
+# Zadanie-8.2-Przelicznik-temperatury
